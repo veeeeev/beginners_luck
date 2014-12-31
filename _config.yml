@@ -3,8 +3,8 @@ title: hello i'm vivian
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   hello world, i'm vivian and i have no idea what i'm doing..and am trying to change that, slowly. This is my first foray into coding and building my own site/blog. Wish me luck!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/beginners_luck" # the subpath of your site, e.g. /blog/
+url: "http://vivianschan.github.io/beginners_luck"
 twitter_username: vivacity186
 
 # Build settings
