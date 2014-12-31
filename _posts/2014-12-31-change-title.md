@@ -6,7 +6,7 @@ categories: blog
 ---
 apparently the title lives in _config.yml
 
-also i picked up on the daring fireball site that you do blockquotes with this symbol: > and with > you don't need to add the white space (extra empty line between lines to have paragraphs) so here goes--config looks like this and i guess you just change the content? 
+also i picked up on the daring fireball site that you do blockquotes with this symbol: > so here goes-config looks like this and i guess you just change the content? 
 
 ># Site settings
 
