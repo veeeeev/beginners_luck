@@ -1,6 +1,6 @@
 ---
 layout: post
-title: commit & push: the real deal
+title: "commit & push: the real deal"
 date: 2014-12-31 16:00:00
 categories: blog
 ---
