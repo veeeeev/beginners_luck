@@ -22,4 +22,4 @@ Still will not format correctly even though I tried out the text in http://dilli
 
 --
 
-update: FORMATTING FIXED. after lunch--carbonara a la America's Test Kitchen--Anuj pointed out that in markdown you need white space (aka an extra line between lines) to create disparate paragraphs. The ### still works. Now why couldn't the guide have said that? The laypeople of the world need a coding for dummies guide! In the internet's defense I have not yet gone through to look for every single tutorial and go through it. Maybe this project can be my own documentary of learning to do this stuff from zero--or more accurately, negative.
+update: FORMATTING FIXED. after lunch--carbonara a la America's Test Kitchen--A pointed out that in markdown you need white space (aka an extra line between lines) to create disparate paragraphs. The ### still works. Now why couldn't the guide have said that? The laypeople of the world need a coding for dummies guide! In the internet's defense I have not yet gone through to look for every single tutorial and go through it. Maybe this project can be my own documentary of learning to do this stuff from zero--or more accurately, negative.
