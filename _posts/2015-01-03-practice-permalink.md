@@ -28,7 +28,7 @@ Quick recap from my overview on git terminology with A:
 
 * To continue working, I need to fetch all the latest commits from origin to local I and rebase my current work on origin/gh-pages. 
 
-So, to keep it unconfusing to Git, I commit my current work (this post) without pushing. 
+So, to keep it unconfusing to Git, I commit my current work (this post) without pushing. Then you right click on the thing you want to rebase on (you want to rebase current changes to the origin, so right click on the last commit that you want your current changes to be implemented on), and the branches combine.
 
 Now A is saying another practice method is to make 2 new pages and make them link to each other. 
 
