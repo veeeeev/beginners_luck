@@ -16,7 +16,7 @@ About is {{site.baseurl}}/about <--does not result in link. html turns it into "
 
 -- i thought i would be clever and try to write the same syntax that worked for the above "About" link and link the text to my post on markdown syntax, but if you click it, you will see that it gives you an error. this is apparently because you need to give them the url it is LOCALLY instead of online. 
 
-trial: [my post on markdown syntax]({{site.baseurl}}/posts/2015-01-02-markdown-2.md) <--when trying this trial, I was talking A through my thought process and it became clear that this computer I'm working on now does not have the post I want to link to, locally! So we had to go to Sourcetree and "Fetch" all the commits I'd done in the last two days from the other computer.
+trial: [my post on markdown syntax]({{site.baseurl}}/blog/2015/01/01/syntax-2.html) <--when trying this trial, I was talking A through my thought process and it became clear that this computer I'm working on now does not have the post I want to link to, locally! So we had to go to Sourcetree and "Fetch" all the commits I'd done in the last two days from the other computer.
 
 Quick recap from my overview on git terminology with A:
 
@@ -30,6 +30,12 @@ Quick recap from my overview on git terminology with A:
 
 So, to keep it unconfusing to Git, I commit my current work (this post) without pushing. Then you right click on the thing you want to rebase on (you want to rebase current changes to the origin, so right click on the last commit that you want your current changes to be implemented on), and the branches combine.
 
-Now A is saying another practice method is to make 2 new pages and make them link to each other. 
+yay it works.
+
+now to try the inter post link again..
+
+[my post on markdown syntax]({{site.baseurl}}/blog/2015/01/01/syntax-2.html)
+
+Now A is saying another practice method is to make 2 new pages and make them link to each other. maybe tomorrow. :) 
 
 He says I keep quoting him..but I only think it's fair to cite the times I am helped and give him credit/be honest about my roadblocks.
