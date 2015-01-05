@@ -13,6 +13,11 @@ haha you see what I did there? :) ok saved new page files and inserted cross-lin
 to commit...fingers crossed!
 
 --
+
 update
 
 it worked! and for the push..blast off! 
+
+--
+
+because i'm an overachiever..ha..included permalinks back to this post from the pages too. wheeee
