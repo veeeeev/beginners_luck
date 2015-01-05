@@ -20,4 +20,4 @@ it worked! and for the push..blast off!
 
 --
 
-because i'm an overachiever..ha..included permalinks back to this post from the pages too. wheeee
+because i'm an overachiever..ha..included permalinks back to the [practice with permalinks]({{site.baseurl}}//blog/2015/01/03/practice-permalink.html) from the test pages too. wheeee somebody stop me.
