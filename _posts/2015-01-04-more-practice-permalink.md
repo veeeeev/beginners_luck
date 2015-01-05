@@ -10,4 +10,9 @@ picking up on yesterday's permalink practice, going to make two new pages and cr
 
 haha you see what I did there? :) ok saved new page files and inserted cross-linking links that point at each other..with added bonus point practice linking to those new test pages from this post...
 
-to commit and push..fingers crossed!
+to commit...fingers crossed!
+
+--
+update
+
+it worked! and for the push..blast off! 
