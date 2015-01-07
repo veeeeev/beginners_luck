@@ -29,3 +29,21 @@ testing: [Shiba-Ram!]({{site.url}}/assets/shibaram.jpg)
 --
 
 update: doesn't work.. :( back to the drawing board..
+
+![ShibaRam]({{site.url}}/assets/shibaram.jpg)
+
+![ShibaRam]({{site.url}}/_assets/shibaram.jpg)
+
+![ShibaRam]({{site.baseurl}}/assets/shibaram.jpg)
+
+![ShibaRam]({{site.baseurl}}/_assets/shibaram.jpg)
+
+--
+
+nope still doesn't work. just had A check my code and apparently what I've been trying to do is host the image on my own site and point at it...when he meant to just point at an image. 
+
+[ShibaRam](https://i.imgur.com/eW6LMB6.jpg)
+
+Easy. 
+
+Not what I thought he meant...
