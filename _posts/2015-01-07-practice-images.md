@@ -14,6 +14,6 @@ versus this
 
 ![Grumpy Cat](http://truestorieswithgill.com/wp-content/uploads/2013/09/20130915-191127.jpg)
 
-Now a gif! 
+Now a gif\(t\) for A:
 
 ![PUPPIES!!!!](http://qzfwq3rieno15cw5madptxpgi.wpengine.netdna-cdn.com/wp-content/uploads/2014/02/QCvthZY.gif)
