@@ -42,7 +42,7 @@ update: doesn't work.. :( back to the drawing board..
 
 nope still doesn't work. just had A check my code and apparently what I've been trying to do is host the image on my own site and point at it...when he meant to just point at an image. 
 
-[ShibaRam](https://i.imgur.com/eW6LMB6.jpg)
+![ShibaRam](https://i.imgur.com/eW6LMB6.jpg)
 
 Easy. 
 
