@@ -12,3 +12,7 @@ For this I went into the config file and added the pagination: variable.
 
 let's see!
 
+--
+
+update: it didn't work :(
+
